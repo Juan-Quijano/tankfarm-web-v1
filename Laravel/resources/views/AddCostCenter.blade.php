@@ -86,7 +86,6 @@ $(document).ready(function() {
 var ArrayDep;  
 var mensajeError="";
 function FillDepartment() {
-    console.log("llm");
     var sURL = IPWS +"GetDepartamentos";
     $.ajax({
         url: sURL,
