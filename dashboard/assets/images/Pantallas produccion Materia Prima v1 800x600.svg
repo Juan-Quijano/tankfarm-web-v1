@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 800 600" enable-background="new 0 0 800 600" xml:space="preserve">
+<rect width="800" height="600"/>
+<text transform="matrix(1 0 0 1 63.2598 46.5557)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">Producto Actual</text>
+<text transform="matrix(1 0 0 1 64.5183 101.035)" fill="#FFFFFF" font-family="'MyriadPro-Bold'" font-size="42.3189">VITRODURO</text>
+<text transform="matrix(1 0 0 1 362.796 46.5556)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">Lote</text>
+<text transform="matrix(1 0 0 1 359.2038 103.3366)" fill="#FFFFFF" font-family="'MyriadPro-Bold'" font-size="50.1597">4 / 10</text>
+<text transform="matrix(1 0 0 1 29.0031 167.5557)" fill="#FFFFFF" font-family="'MyriadPro-BoldCond'" font-size="12">Clave Producto</text>
+<text transform="matrix(1 0 0 1 152.4198 167.5557)" fill="#FFFFFF" font-family="'MyriadPro-BoldCond'" font-size="12">Producto</text>
+<text transform="matrix(1 0 0 1 253.5031 167.5557)" fill="#FFFFFF" font-family="'MyriadPro-BoldCond'" font-size="12">Cantidad Base</text>
+<text transform="matrix(1 0 0 1 352.0031 167.5557)" fill="#FFFFFF" font-family="'MyriadPro-BoldCond'" font-size="12">Cantidad Suministrada</text>
+<text transform="matrix(1 0 0 1 489.2811 167.5557)" fill="#FFFFFF" font-family="'MyriadPro-BoldCond'" font-size="12">Diferencia</text>
+<text transform="matrix(1 0 0 1 599.8366 167.5557)" fill="#FFFFFF" font-family="'MyriadPro-BoldCond'" font-size="12">Origen del Peso</text>
+<text transform="matrix(1 0 0 1 721.1422 167.5557)" fill="#FFFFFF" font-family="'MyriadPro-BoldCond'" font-size="12">Validacion</text>
+<g>
+	<text transform="matrix(1 0 0 1 37.7752 226.7066)" fill="#FFFFFF" font-family="'NirmalaUI-Semilight'" font-size="28.4764">CBL</text>
+	<text transform="matrix(1 0 0 1 125.3759 212.7948)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'NirmalaUI-Semilight'" font-size="11.8541">Cemento lafarge </tspan><tspan x="11.4" y="14.2" fill="#FFFFFF" font-family="'NirmalaUI-Semilight'" font-size="11.8541">Blanco 50 kg</tspan></text>
+	<text transform="matrix(1 0 0 1 244.8587 226.7068)" fill="#FFFFFF" font-family="'NirmalaUI-Semilight'" font-size="28.4764">180 kg</text>
+	<text transform="matrix(1 0 0 1 359.5809 226.7064)" fill="#FFFFFF" font-family="'NirmalaUI-Semilight'" font-size="28.4764">140 kg</text>
+	<line fill="#FFFFFF" stroke="#738891" stroke-width="3" stroke-miterlimit="10" x1="113.5" y1="187" x2="113.5" y2="235"/>
+	<line fill="#FFFFFF" stroke="#738891" stroke-width="3" stroke-miterlimit="10" x1="342.5" y1="187" x2="342.5" y2="235"/>
+	<line fill="#FFFFFF" stroke="#738891" stroke-width="3" stroke-miterlimit="10" x1="571.5" y1="187" x2="571.5" y2="235"/>
+	<line fill="#FFFFFF" stroke="#738891" stroke-width="3" stroke-miterlimit="10" x1="457.5" y1="187" x2="457.5" y2="235"/>
+	<line fill="#FFFFFF" stroke="#738891" stroke-width="3" stroke-miterlimit="10" x1="228.5" y1="187" x2="228.5" y2="235"/>
+	<line fill="#FFFFFF" stroke="#738891" stroke-width="3" stroke-miterlimit="10" x1="686.5" y1="187" x2="686.5" y2="235"/>
+	
+		<image overflow="visible" width="381" height="296" xlink:href="../../../../../../Ingenieria/Siemens/S71200/Libnodave/otro ejemplo/testlib2/testlib/testlib/Resources/nel.png"  transform="matrix(0.1128 0 0 0.1128 724.6359 193.3133)">
+	</image>
+	<text transform="matrix(1 0 0 1 468.4142 226.7067)" fill="#FFFFFF" font-family="'NirmalaUI-Semilight'" font-size="28.4764">- 40 kg</text>
+	<text transform="matrix(1 0 0 1 591.0021 224.1313)" fill="#FFFFFF" font-family="'NirmalaUI-Semilight'" font-size="24.3951">Bascula</text>
+</g>
+<g>
+	
+		<image overflow="visible" width="381" height="296" xlink:href="../../../../../../Ingenieria/Siemens/S71200/Libnodave/otro ejemplo/testlib2/testlib/testlib/Resources/ok.png"  transform="matrix(9.224850e-002 0 0 9.224850e-002 724.6359 273.25)">
+	</image>
+	<text transform="matrix(1 0 0 1 30.7752 296.7065)" fill="#FFFFFF" font-family="'NirmalaUI-Semilight'" font-size="28.4764">MOR</text>
+	<text transform="matrix(1 0 0 1 146.8901 282.7948)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'NirmalaUI-Semilight'" font-size="11.8541">Mortero </tspan><tspan x="-11.6" y="14.2" fill="#FFFFFF" font-family="'NirmalaUI-Semilight'" font-size="11.8541">Tolteca 50 kg</tspan></text>
+	<text transform="matrix(1 0 0 1 244.8587 296.7068)" fill="#FFFFFF" font-family="'NirmalaUI-Semilight'" font-size="28.4764">450 kg</text>
+	<text transform="matrix(1 0 0 1 359.5809 296.7064)" fill="#FFFFFF" font-family="'NirmalaUI-Semilight'" font-size="28.4764">450 kg</text>
+	<line fill="#FFFFFF" stroke="#738891" stroke-width="3" stroke-miterlimit="10" x1="113.5" y1="257" x2="113.5" y2="305"/>
+	<line fill="#FFFFFF" stroke="#738891" stroke-width="3" stroke-miterlimit="10" x1="342.5" y1="257" x2="342.5" y2="305"/>
+	<line fill="#FFFFFF" stroke="#738891" stroke-width="3" stroke-miterlimit="10" x1="571.5" y1="257" x2="571.5" y2="305"/>
+	<line fill="#FFFFFF" stroke="#738891" stroke-width="3" stroke-miterlimit="10" x1="457.5" y1="257" x2="457.5" y2="305"/>
+	<line fill="#FFFFFF" stroke="#738891" stroke-width="3" stroke-miterlimit="10" x1="228.5" y1="257" x2="228.5" y2="305"/>
+	<line fill="#FFFFFF" stroke="#738891" stroke-width="3" stroke-miterlimit="10" x1="686.5" y1="257" x2="686.5" y2="305"/>
+	<text transform="matrix(1 0 0 1 468.4142 296.7067)" fill="#FFFFFF" font-family="'NirmalaUI-Semilight'" font-size="28.4764">   0 kg</text>
+	<text transform="matrix(1 0 0 1 604.7423 294.1313)" fill="#FFFFFF" font-family="'NirmalaUI-Semilight'" font-size="24.3951">Grua</text>
+</g>
+<text transform="matrix(1 0 0 1 20.0032 439.9342)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="23.9542">Juan de Dios Garcia Dueñas</tspan><tspan x="0" y="28.7" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="23.9542">Alejandro Robles Rodriguez</tspan></text>
+<text transform="matrix(1 0 0 1 620.379 544.3672)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="33.4213">PEGADURO</text>
+<text transform="matrix(1 0 0 1 618.838 568.2471)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="16.2567">El Adhesivo</tspan><tspan x="78.6" y="0" font-family="'MyriadPro-Regular'" font-size="16.2567"> </tspan><tspan x="82" y="0" fill="#E06D19" font-family="'MyriadPro-Regular'" font-size="16.2567">MÁS</tspan><tspan x="113" y="0" font-family="'MyriadPro-Regular'" font-size="16.2567"> </tspan><tspan x="116.5" y="0" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="16.2567">Seguro</tspan></text>
+<line fill="#E06D19" stroke="#FF5500" stroke-miterlimit="10" x1="614" y1="513" x2="788" y2="513"/>
+<line fill="#E06D19" stroke="#000000" stroke-miterlimit="10" x1="591.2" y1="79" x2="780.1" y2="79"/>
+<text transform="matrix(1 0 0 1 409.2266 536.1592)" fill="#FF5500" font-family="'MyriadPro-Bold'" font-size="30.0751">Materia Prima</text>
+<text transform="matrix(1 0 0 1 447.5 576.9199)" fill="#FF5500" font-family="'MyriadPro-Bold'" font-size="38.1519">Nucleo A</text>
+<line fill="#E06D19" stroke="#FF5500" stroke-miterlimit="10" x1="614" y1="579.3" x2="788" y2="579.3"/>
+<text transform="matrix(1 0 0 1 580.796 46.5554)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">Fabricacion</text>
+<text transform="matrix(1 0 0 1 573.4144 103.3367)" fill="#FFFFFF" font-family="'MyriadPro-Bold'" font-size="50.1597">70254</text>
+<g>
+	
+		<image overflow="visible" width="381" height="296" xlink:href="../../../../../../Ingenieria/Siemens/S71200/Libnodave/otro ejemplo/testlib2/testlib/testlib/Resources/ok.png"  transform="matrix(9.224850e-002 0 0 9.224850e-002 724.6359 342.25)">
+	</image>
+	<text transform="matrix(1 0 0 1 30.7752 365.7065)" fill="#FFFFFF" font-family="'NirmalaUI-Semilight'" font-size="28.4764">MOR</text>
+	<text transform="matrix(1 0 0 1 146.8901 351.7948)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'NirmalaUI-Semilight'" font-size="11.8541">Mortero </tspan><tspan x="-11.6" y="14.2" fill="#FFFFFF" font-family="'NirmalaUI-Semilight'" font-size="11.8541">Tolteca 50 kg</tspan></text>
+	<text transform="matrix(1 0 0 1 244.8587 365.7068)" fill="#FFFFFF" font-family="'NirmalaUI-Semilight'" font-size="28.4764">450 kg</text>
+	<text transform="matrix(1 0 0 1 359.5809 365.7064)" fill="#FFFFFF" font-family="'NirmalaUI-Semilight'" font-size="28.4764">450 kg</text>
+	<line fill="#FFFFFF" stroke="#738891" stroke-width="3" stroke-miterlimit="10" x1="113.5" y1="326" x2="113.5" y2="374"/>
+	<line fill="#FFFFFF" stroke="#738891" stroke-width="3" stroke-miterlimit="10" x1="342.5" y1="326" x2="342.5" y2="374"/>
+	<line fill="#FFFFFF" stroke="#738891" stroke-width="3" stroke-miterlimit="10" x1="571.5" y1="326" x2="571.5" y2="374"/>
+	<line fill="#FFFFFF" stroke="#738891" stroke-width="3" stroke-miterlimit="10" x1="457.5" y1="326" x2="457.5" y2="374"/>
+	<line fill="#FFFFFF" stroke="#738891" stroke-width="3" stroke-miterlimit="10" x1="228.5" y1="326" x2="228.5" y2="374"/>
+	<line fill="#FFFFFF" stroke="#738891" stroke-width="3" stroke-miterlimit="10" x1="686.5" y1="326" x2="686.5" y2="374"/>
+	<text transform="matrix(1 0 0 1 468.4142 365.7067)" fill="#FFFFFF" font-family="'NirmalaUI-Semilight'" font-size="28.4764">   0 kg</text>
+	<text transform="matrix(1 0 0 1 604.7423 363.1313)" fill="#FFFFFF" font-family="'NirmalaUI-Semilight'" font-size="24.3951">Grua</text>
+</g>
+<text transform="matrix(1 0 0 1 63.2598 410.5557)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">Operadores</text>
+<text transform="matrix(1 0 0 1 484.796 410.5555)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">Nucleo</text>
+<text transform="matrix(1 0 0 1 702.796 410.5554)" fill="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">Silo</text>
+<text transform="matrix(1 0 0 1 492.5002 462.6699)" fill="#FFFFFF" font-family="'MyriadPro-Bold'" font-size="50.1597">A</text>
+<text transform="matrix(1 0 0 1 695.4146 462.6699)" fill="#FFFFFF" font-family="'MyriadPro-Bold'" font-size="50.1597">4</text>
+</svg>
